@@ -12,7 +12,7 @@ export default function Hero() {
         className="max-w-5xl text-center"
       >
         <p className="text-cyan-400 text-lg mb-6">
-          Chennai, India · Open to Opportunities
+          Open to Opportunities
         </p>
 
         <h1 className="text-5xl md:text-7xl font-bold leading-tight">
